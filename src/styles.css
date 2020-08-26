@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background: url(/../assets/background.jpg);
+    background-size: cover;
+
+    height: 100%;
+    font-family:'Open Sans',sans-serif;
+}

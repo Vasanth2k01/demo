@@ -1,0 +1,11 @@
+html{
+    background: url(/../assets/background.jpg);
+}
+
+.card:hover{
+    -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.15);
+    -maz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.15);
+    box-shadow: -1px 9px 40px -12px rgb(0, 0, 0,0.15);
+    
+
+}
